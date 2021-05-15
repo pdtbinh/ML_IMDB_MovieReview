@@ -8,7 +8,7 @@ This machine learning project will explore the IMDB movie review sentiment class
 
 All detailed info is included within the Jupiter notebook. There are also a PDF versions in case the notebook files do not work.
 
-### Overview project structure:
+### Overview project structure in each Episode:
 - Investigating datasets
 - Data preprocessing
 - Creating Neural Network models
